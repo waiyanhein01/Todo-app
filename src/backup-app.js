@@ -139,8 +139,6 @@ const deleteList = (event) => {
     // console.log("U delete");
 }
 
-
-
 // listener
 addBtn.addEventListener("click", appList);
 textInput.addEventListener("keyup", (event) => {
